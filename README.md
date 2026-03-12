@@ -1,6 +1,8 @@
 Heart Disease Analysis Dashboard (Tableau Project)
 Project Overview
 
+Here is the DEMO VIDEO LINK : https://drive.google.com/file/d/1lE2ScZ4O2cU-d_F89rADor3LIw-31PYg/view?usp=drive_link
+
 Heart disease remains one of the leading causes of death worldwide. The increasing prevalence is mainly due to unhealthy lifestyles, poor dietary habits, smoking, alcohol consumption, stress, and lack of physical activity. Early detection and preventive analysis can significantly reduce risks.
 
 This project uses Tableau Public to analyze heart disease datasets and transform raw healthcare data into meaningful insights using dashboards and stories. The objective is to identify key risk factors, understand disease patterns, and support data-driven healthcare decisions.
